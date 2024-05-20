@@ -1,0 +1,21 @@
+.nav-bar{
+    background-color: #fdb3dc10;
+}
+.logo{
+    margin-right: 300px;
+}
+.container-links{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.container-links .link-nav{
+    margin: 0px 60px;
+}
+.link-nav{
+    list-style: none;
+}
+.link-nav a{
+    color: rgba(226, 76, 164, 0.555);
+    text-decoration: none;
+}
